@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Anime-Search-app/static/css/main.0aec6380.css",
+    "main.js": "/Anime-Search-app/static/js/main.302e7dcb.js",
+    "static/js/787.6e2c3fae.chunk.js": "/Anime-Search-app/static/js/787.6e2c3fae.chunk.js",
+    "static/media/Fujimaru-Regular.woff": "/Anime-Search-app/static/media/Fujimaru-Regular.6772ded19bd87e2f0b7f.woff",
+    "index.html": "/Anime-Search-app/index.html",
+    "main.0aec6380.css.map": "/Anime-Search-app/static/css/main.0aec6380.css.map",
+    "main.302e7dcb.js.map": "/Anime-Search-app/static/js/main.302e7dcb.js.map",
+    "787.6e2c3fae.chunk.js.map": "/Anime-Search-app/static/js/787.6e2c3fae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0aec6380.css",
+    "static/js/main.302e7dcb.js"
+  ]
+}
