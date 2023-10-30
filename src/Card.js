@@ -1,8 +1,6 @@
 import React from 'react';
-// import { Client, fetchRandom } from "nekos-best.js";
 import 'tachyons';
 import './card.css';
-// import pic from './img/6.png';//we can import like this 
 
 // import cardList from './cardList';
 
